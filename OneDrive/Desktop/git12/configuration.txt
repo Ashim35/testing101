@@ -18,3 +18,19 @@ git status
 
 git push -u origin main
 
+
+
+//create a folder on desktop and open with git here.
+git init
+git remote add origin 'ctrl+v'       //copy the email link here
+git pull origin main
+
+
+// main to other branch
+git branch js(branch name )
+
+git checkout js
+
+
+
+
