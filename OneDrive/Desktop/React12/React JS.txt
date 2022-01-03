@@ -1,0 +1,19 @@
+React js --> library of js developed by fb
+
+at first download abd install nodejs from nodejs.org >> LTS version
+
+cmd >> node --version
+
+//To install react use the following command
+
+cmd >> npx create-react-app app-name
+
+// to start the server
+
+npm start
+
+// to install packages for routing
+
+my-app >> npm install react-router-dom
+
+rafce

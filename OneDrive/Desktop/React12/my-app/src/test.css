@@ -1,0 +1,10 @@
+.contain
+{
+    height: 300px;
+    width: 500px;
+    background-color: brown;
+}
+p{
+    text-align: center;
+    color: cornsilk;
+}
